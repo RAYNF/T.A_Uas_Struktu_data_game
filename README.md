@@ -4,3 +4,4 @@ Terdapat fitur-fitur menarik
 * linked list
 * menu loading
 * mode permainan
+* tampilan yang menarik
