@@ -5,3 +5,8 @@ Terdapat fitur-fitur menarik
 * menu loading
 * mode permainan
 * tampilan yang menarik
+
+# Tampilan Game 
+
+
+
