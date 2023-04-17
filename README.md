@@ -8,5 +8,7 @@ Terdapat fitur-fitur menarik
 
 # Tampilan Game 
 
+![loading](loading.png)
 
+![gameplay](gameplay.png)
 
